@@ -16,5 +16,4 @@ Onedrive
 url: https://nudteducn-my.sharepoint.com/:f:/g/personal/chenxinhai16_nudt_edu_cn/EvU-ssR9R4JMqVIbod8wABoBRBfVRurnDXiRBbpxzt2FWg?e=DIhdkv
 
 Publication:
-
 (Under review) MQE-Net: An automatic 3-D mesh quality evaluation framework using deep neural networks
